@@ -13,7 +13,7 @@ module.exports = {
   organizationName: 'facebook',
   projectName: 'docusaurus',
   baseUrl: '/',
-  url: 'https://v2.docusaurus.io',
+  url: 'https://musesoft-docu2.netlify.com',
   favicon: 'img/docusaurus.ico',
   customFields: {
     description:
